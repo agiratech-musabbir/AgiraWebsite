@@ -1,0 +1,12 @@
+a{
+    color: rgb(49, 40, 40);
+    font-family: 'Fira Sans', sans-serif;
+    text-decoration: none;
+  }
+  a:hover{
+    text-decoration: underline;
+    color: green;
+  }
+  ul{
+    color: red;
+  }
