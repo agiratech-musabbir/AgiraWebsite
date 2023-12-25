@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  color: grey;
+}
+h1 {
+  font-family: sans-serif;
+}
+p {
+  font-family: sans-serif;
+}
+a {
+  text-decoration: none;
+  color: red;
+}
+a:hover {
+  text-decoration: underline;
+}
